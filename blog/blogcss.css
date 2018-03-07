@@ -1,0 +1,31 @@
+body{
+	border:20px solid #bdc3c7;
+	margin:0 auto;
+	padding: 10px;
+	max-width: 700px;
+	width: 80%;
+	background: url(https://image.freepik.com/free-vector/blurred-background-with-light-colors_1034-245.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.lb{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 2px;
+}
+.dt{
+	color:#3498db;
+	padding-top: 5px;
+	letter-spacing: 5px;
+}
+p{
+	font-style: Saira Extra Condensed;
+	font-weight: 700;
+}
+h1{
+	text-align: center;
+
+}
+div{
+	border-bottom: 2px solid #bdc3c7;
+}
